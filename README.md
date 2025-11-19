@@ -1,12 +1,6 @@
 # 🚀 Ollama Model Benchmark Suite
 
-![Ollama Benchmark Banner](docs/banner.png)
-
 A professional benchmarking suite for evaluating and comparing the performance of AI models served by [Ollama](https://ollama.com/). This Streamlit application provides comprehensive latency, throughput, and quality analysis with beautiful visualizations and historical tracking capabilities.
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourusername/ollama-benchmark)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
 
 ## ✨ Features
 
