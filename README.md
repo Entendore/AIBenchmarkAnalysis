@@ -64,7 +64,7 @@ Here’s a **concise, clean, professional rewrite** of all three sections while 
 
 **Purpose:** Turn benchmark data into clear visual insights.
 
-![Analytics Tab](images/analytics.jpg)
+![Analytics Tab](images/analysis.jpg)
 
 **Core Features:**
 
