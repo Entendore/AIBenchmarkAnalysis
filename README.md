@@ -25,6 +25,8 @@ Here’s a **concise, clean, professional rewrite** of all three sections while 
 
 **Purpose:** Configure, run, and monitor benchmarks with immediate visual feedback.
 
+![Benchmark Tab](images/benchmarks.jpg)
+
 **Core Features:**
 
 * **Live Status Indicator:** Real-time Ollama connectivity with color-coded status.
@@ -62,6 +64,8 @@ Here’s a **concise, clean, professional rewrite** of all three sections while 
 
 **Purpose:** Turn benchmark data into clear visual insights.
 
+![Analytics Tab](images/analytics.jpg)
+
 **Core Features:**
 
 * **Latency Distribution:** Box plots with medians, IQR, outliers, and individual run points.
@@ -84,6 +88,8 @@ Here’s a **concise, clean, professional rewrite** of all three sections while 
 ## **3. 📋 History Tab — Long-Term Performance Tracking**
 
 **Purpose:** Store and analyze benchmark results over time.
+
+![History Tab](images/histories.jpg)
 
 **Core Features:**
 
